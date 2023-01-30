@@ -32,3 +32,4 @@ Run the app on a simulator:
 - Press `a` to run on Android Emulator (requires Android Studio)
 
 You can also run the app on a physical device. For that, download the Expo Go app (available on appstore and play market) and then scan the QR code from your terminal (press `c` to display it)
+# batchat
